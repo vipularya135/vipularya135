@@ -1,6 +1,5 @@
 
-
-<a href="https://github.com/vipularya135"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&duration=1100&pause=1000&color=0C2936&center=true&multiline=true&width=1000&height=200&lines=About+Me+-;%F0%9F%91%8B+Hi%2C+I%E2%80%99m+Vipul+Arya;%F0%9F%91%80+I%E2%80%99m+interested in +Web+development+and+programming;%F0%9F%8C%B1+I+know+languages+like+python%2C+C%2C+html%2C+javascript%2C+css;%F0%9F%98%83+I'll+be+learning+SQL%2C+ReactJS+in+a+short+period;%F0%9F%93%AB+Reach+me+at+krishnamvipul%40gmail.com"  /></a>
+<a href="https://github.com/vipularya135"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=23&duration=2000&pause=600&multiline=true&width=720&height=200&lines=About+Me+-+;%F0%9F%91%8B+Hi%2C+I%E2%80%99m+Vipul+Arya;%F0%9F%91%80+I%E2%80%99m+interested+in+Web+development+and+programming+;%F0%9F%8C%B1+I+know+only+few+languages+as+of+now;%F0%9F%98%83+I'll+be+learning+%F0%9F%92%AF+more+soon+%3A);%F0%9F%93%AB+Reach+me+at+krishnamvipul%40gmail.com" alt="Typing SVG" /></a>
 <hr><hr>
 <h1 align="center" color="F85D7F"> My projects -</h1>
 <br>
