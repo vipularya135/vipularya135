@@ -4,7 +4,7 @@
 <h1 align="center" color="F85D7F"> My projects -</h1>
 <br>
 <p align="center">
-<a href="https://github.com/vipularya135/clone_netflix_login-page_vip"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=vipularya135&repo=clone_netflix_login-page_vip&theme=react&bg_color=1F222E&title_color=B37FFF&icon_color=F85D7F&hide_border=true&show_icons=false"></a>
+<a href="https://github.com/vipularya135/clone_netflix_login-page_vip"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=vipularya135&repo=VIP-s-ML_Scratch&theme=react&bg_color=1F222E&title_color=B37FFF&icon_color=F85D7F&hide_border=true&show_icons=false"></a>
 </p>
 <p align="center">
   <a href="https://github.com/vipularya135?tab=repositories"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.herokuapp.com/badge/-All%20Repositories-B37FFF?style=for-the-badge&logoColor=white&logo=repo"/></a>
