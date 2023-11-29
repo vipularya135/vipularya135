@@ -4,8 +4,7 @@
 <h1 align="center" color="F85D7F"> My projects -</h1>
 <br>
 <p align="center">
-<a href="https://github.com/vipularya135/VIP-s-ML_Scratch"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=vipularya135&repo=VIP-s-ML_Scratch&theme=react&bg_color=1F222E&title_color=B37FFF&icon_color=F85D7F&hide_border=true&show_icons=false">  This repository contains implementations of various supervised machine learning algorithms from scratch and their counterparts using the scikit-learn library. The goal is to provide a learning resource and a practical comparison of the performance of custom implementations versus the well-established scikit-learn implementations.
-</a>
+<a href="https://github.com/vipularya135/VIP-s-ML_Scratch"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=vipularya135&repo=VIP-s-ML_Scratch&theme=react&bg_color=1F222E&title_color=B37FFF&icon_color=F85D7F&hide_border=true&show_icons=false"></a>
 </p>
 <p align="center">
   <a href="https://github.com/vipularya135?tab=repositories"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.herokuapp.com/badge/-All%20Repositories-B37FFF?style=for-the-badge&logoColor=white&logo=repo"/></a>
@@ -24,4 +23,5 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=vipularya135&label=Profile%20views&color=B37FFF&style=flat" alt="vipularya135" width="100px" height="50px" /></p>
 <h3 align="center" color="F85D7F">Thank you for visiting my profile, have a gooood dayy! :)</h3>
 <h4>[-- github website --]: https://github.com/vipularya135</h4>
+
 
