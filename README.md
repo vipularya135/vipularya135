@@ -9,11 +9,6 @@
 <p align="center">
   <a href="https://github.com/vipularya135?tab=repositories"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.herokuapp.com/badge/-All%20Repositories-B37FFF?style=for-the-badge&logoColor=white&logo=repo"/></a>
 </p>
- <h2 align="center" color="F85D7F">GitHub Stats -</h2>
-<div align="center">
-  <a href="https://github.com/vipularya135?tab=repositories">
-    <img src="https://github-readme-activity-graph.cyclic.app/graph?username=vipularya135&bg_color=1F222E&color=B37FFF&line=F85D7F&point=FFFFFF&hide_border=true" alt="Vipul's Github Activity Graph">
-  </a>
   <h2 style="color: #F85D7F;">Stats of my public repositories -</h2>
 </div>
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vipularya135&show_icons=true&count_private=true&bg_color=1F222E&title_color=B37FFF&text_color=FFFFFF&icon_color=F85D7F" alt="vipularya135" /></p>
