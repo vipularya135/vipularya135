@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm VIPUL ARYA</h1>
-<h3 align="center">Self motivated. Learning new things.Excited to grow. Looking for new chances to develop myself both personally and professionally</h3>
+<h3 align="center">Self motivated. Learning new things. Excited to grow. Looking for new chances to develop myself both personally and professionally</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vipularya135&label=Profile%20views&color=0e75b6&style=flat" alt="vipularya135" /> </p>
 
